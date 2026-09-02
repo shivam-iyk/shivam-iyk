@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam-iyk&label=Profile%20views&color=0e75b6&style=flat" alt="shivam-iyk" /> </p>
 
-- 🔭 I’m currently working on [LearnLoop](https://github.com/shivam-iyk/learnloop)
+- 🔭 I’m currently working on [LearnLoop](https://github.com/shivam-iyk/learn-loop)
 
 - 👨‍💻 All of my projects are available at [https://devshivam.tech](https://dev-shivam.in)
 
