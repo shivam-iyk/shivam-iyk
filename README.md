@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [LearnLoop](https://github.com/shivam-iyk/learn-loop)
 
-- 👨‍💻 All of my projects are available at [https://devshivam.tech](https://dev-shivam.in)
+- 👨‍💻 All of my projects are available at [https://shivam-dev.site](https://shivam-dev.site)
 
 - 💬 Ask me about **MERN, Next.js**
 
